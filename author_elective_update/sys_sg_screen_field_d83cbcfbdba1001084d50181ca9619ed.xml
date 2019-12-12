@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>number</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>50</order>
+        <record_id_field/>
+        <screen display_value="Details">dc3cbcfbdba1001084d50181ca9619c4</screen>
+        <screen_data_item_table>x_118804_xmas_list_xmas_list</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-12 20:32:50</sys_created_on>
+        <sys_id>d83cbcfbdba1001084d50181ca9619ed</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>number</sys_name>
+        <sys_package display_value="XMas List" source="x_118804_xmas_list">090b3cf7dba1001084d50181ca96199f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="XMas List">090b3cf7dba1001084d50181ca96199f</sys_scope>
+        <sys_update_name>sys_sg_screen_field_d83cbcfbdba1001084d50181ca9619ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-12 20:39:23</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=d83cbcfbdba1001084d50181ca9619ed"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="XMas List">090b3cf7dba1001084d50181ca96199f</application>
+        <file_path/>
+        <instance_id>a769fd63dbb79f040e785d00cf9619a4</instance_id>
+        <instance_name>dev70365</instance_name>
+        <name>sys_sg_screen_field_d83cbcfbdba1001084d50181ca9619ed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>number</data_item_field_name><description_text/><description_text_field/><description_text_type/><field_name/><hidden>false</hidden><order>50</order><record_id_field/><screen display_value="Details">dc3cbcfbdba1001084d50181ca9619c4</screen><screen_data_item_table>x_118804_xmas_list_xmas_list</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 20:32:50</sys_created_on><sys_id>d83cbcfbdba1001084d50181ca9619ed</sys_id><sys_mod_count>1</sys_mod_count><sys_name>number</sys_name><sys_package display_value="XMas List" source="x_118804_xmas_list">090b3cf7dba1001084d50181ca96199f</sys_package><sys_policy/><sys_scope display_value="XMas List">090b3cf7dba1001084d50181ca96199f</sys_scope><sys_update_name>sys_sg_screen_field_d83cbcfbdba1001084d50181ca9619ed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 20:39:23</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field><sys_translated_text action="delete_multiple" query="documentkey=d83cbcfbdba1001084d50181ca9619ed"/></record_update>]]></payload>
+        <payload_hash>-1073807542</payload_hash>
+        <record_name>number</record_name>
+        <reverted_from/>
+        <source>010b3cf7dba1001084d50181ca9619a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-12 20:39:23</sys_created_on>
+        <sys_id>94bd74bfdba1001084d50181ca9619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16efbd66bce0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-12 20:39:23</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>10bd74bf12a10010b35c4ac87b5f9efd</update_guid>
+        <update_guid_history>10bd74bf12a10010b35c4ac87b5f9efd:-1073807542,e83cfcfb12a10010b8a8bed2a05a3270:-1460966772</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-12 20:39:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>2aaa29a6b9ae450d8827c2f2f183faa1</sys_id>
+        <sys_metadata>d83cbcfbdba1001084d50181ca9619ed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>number</sys_name>
+        <sys_package display_value="XMas List" source="x_118804_xmas_list">090b3cf7dba1001084d50181ca96199f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="XMas List">090b3cf7dba1001084d50181ca96199f</sys_scope>
+        <sys_scope_delete display_value="">5c93950778214248a6edb25a6f2f6ee4</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_d83cbcfbdba1001084d50181ca9619ed</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_d83cbcfbdba1001084d50181ca9619ed">94bd74bfdba1001084d50181ca9619fd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-12 20:39:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

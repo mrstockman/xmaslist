@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Xmas List" max_length="40" name="x_118804_xmas_list_xmas_list" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Gift" max_length="40" name="gift" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Gift for" max_length="40" name="gift_for" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price " max_length="20" name="price" type="price"/>
+        <element label="Purchased" max_length="40" name="purchased" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Wish list" max_length="40" name="wish_list" type="string"/>
+    </element>
+</database>

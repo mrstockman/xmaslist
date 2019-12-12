@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>XMas List Xmas List</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-12 20:32:50</sys_created_on>
+        <sys_id>983cf03bdba1001084d50181ca96194a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>XMas List Xmas List</sys_name>
+        <sys_package display_value="XMas List" source="x_118804_xmas_list">090b3cf7dba1001084d50181ca96199f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="XMas List">090b3cf7dba1001084d50181ca96199f</sys_scope>
+        <sys_update_name>sys_sg_data_item_983cf03bdba1001084d50181ca96194a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-12 20:32:50</sys_updated_on>
+        <table>x_118804_xmas_list_xmas_list</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=983cf03bdba1001084d50181ca96194a"/>
+</record_update>
